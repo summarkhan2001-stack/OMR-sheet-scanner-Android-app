@@ -6,11 +6,6 @@ Smart Mobile OMR Scanner: High-performance OMR grading platform combining a Pyth
 The **Smart Mobile-Based OMR Sheet Evaluation and Scoring Platform** is an enterprise-grade academic grading platform engineered to replace specialized, expensive hardware Optical Mark Recognition (OMR) scanners with a ubiquitous mobile camera and edge-cloud architecture.
 
 Built as a Final Year Project at the **University of Azad Jammu & Kashmir (UAJK)**, Department of Computer Science & IT (DCS&IT), this system combines a cross-platform **Flutter** mobile client with an ensemble **Python FastAPI + OpenCV** computer vision engine (`v6.0 Ensemble`). It delivers **100% grading accuracy**, sub-second evaluation (~450ms per sheet), CamScanner-grade document cleaning, and multi-mark/erasure disambiguation.
-
-- **Author:** Shah Zaib (Roll No. 04, Reg No. 2022-UMDB-00104)
-- **Supervisor:** Dr. Maryum Bibi (Assistant Professor, DCS&IT, UAJK)
-- **Institution:** University of Azad Jammu & Kashmir, Muzaffarabad
-
 ---
 
 ## 🏗️ System Architecture
